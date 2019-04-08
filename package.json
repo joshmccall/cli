@@ -3,7 +3,7 @@
   "description": "cli for my various tools",
   "version": "0.0.0-semantically-released",
   "license": "MIT",
-  "author": "Matt Travi <npm@travi.org> (https://matt.travi.org/)",
+  "author": "Josh McCall <npm@joshuamccall.com> (https://joshuamccall.com/)",
   "repository": "joshmccall/cli",
   "bugs": "https://github.com/joshmccall/cli/issues",
   "homepage": "https://npm.im/@joshmccall/cli",
